@@ -9,6 +9,10 @@
       {
         "appID": "WL3LBN86YB.com.neosim.ULtest",
         "paths": ["*"]
+      },
+      {
+        "appID": "WL3LBN86YB.com.neosim.vpnintouch.www",
+        "paths": ["*"]
       }
     ]
   }
