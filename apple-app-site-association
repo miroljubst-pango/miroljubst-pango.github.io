@@ -17,6 +17,9 @@
       {
         "appID": "36LJG4MA4Y.com.pango.passworddefense",
         "paths": ["/pd/"]
+      },      {
+        "appID": "WL3LBN86YB.com.neosim.pd",
+        "paths": ["/pd/"]
       }
     ]
   }
