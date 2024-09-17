@@ -13,7 +13,12 @@
       {
         "appID": "WL3LBN86YB.com.neosim.vpnintouch.www",
         "paths": ["*"]
-      }
+      },
+      {
+        "appID": "36LJG4MA4Y.com.com.pango.passworddefense",
+        "paths": ["/pd/"]
+      },
+
     ]
   }
 }
