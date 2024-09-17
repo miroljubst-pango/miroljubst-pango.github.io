@@ -15,7 +15,7 @@
         "paths": ["*"]
       },
       {
-        "appID": "36LJG4MA4Y.com.com.pango.passworddefense",
+        "appID": "36LJG4MA4Y.com.pango.passworddefense",
         "paths": ["/pd/"]
       }
     ]
