@@ -15,6 +15,10 @@
         "paths": ["*"]
       },
       {
+        "appID": "WL3LBN86YB.com.neosim.vpnintouch.www.macos",
+        "paths": ["/vpnintouch/"]
+      },
+      {
         "appID": "36LJG4MA4Y.com.pango.passworddefense",
         "paths": ["/pd/"]
       },      {
